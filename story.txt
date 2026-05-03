@@ -1,1 +1,1 @@
-Once up a time, a story started.
+Once up a time, a story started as line 1. 

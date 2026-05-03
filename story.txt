@@ -1,1 +1,2 @@
 Once up a time, a story started.
+The story is about learning VS code and Github.
